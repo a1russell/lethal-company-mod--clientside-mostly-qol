@@ -1,0 +1,16 @@
+{
+  "name": "Haxe11s_Clientside_Mostly_QoL_Modpack",
+  "version_number": "0.1.0",
+  "website_url": "https://github.com/a1russell/lethal-company-mod--clientside-mostly-qol",
+  "description": "",
+  "dependencies": [
+    "CTNOriginals-CrossHair-1.0.5",
+    "Monkeytype-HideChat-1.0.0",
+    "NotAtomicBomb-Terminal_Clock-1.0.5",
+    "Renegades-FlashlightToggle-1.5.0",
+    "Renegades-WalkieUse-1.4.0",
+    "FlipMods-LetMeLookDown-1.0.1",
+    "vasanex-ItemQuickSwitch-1.1.0",
+    "tinyhoot-ShipLoot-1.0.0"
+  ]
+}
